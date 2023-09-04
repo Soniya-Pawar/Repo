@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Test') {	
             steps {
-                echo 'Soniya listen to me, you idiot!'
+                echo 'Soniya listen me, you idiot!'
             }
         }
         stage('Deploy') {
